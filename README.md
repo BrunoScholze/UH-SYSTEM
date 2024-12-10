@@ -29,7 +29,7 @@ O sistema integra o Kendo Grid para a gestão da agenda de reservas de forma vis
 
 ## 📸 Prints da Aplicação Desenvolvida
 
-Aqui estão alguns prints das funcionalidades principais:
+Aqui estão alguns prints da apliacação rodando em localhost
 
 <img width="1435" alt="Screenshot 2024-10-15 at 00 37 24" src="https://github.com/user-attachments/assets/05ebc741-5e05-4c46-9b24-4e4727ce1b3c">
 <img width="1435" alt="Screenshot 2024-10-15 at 00 37 28" src="https://github.com/user-attachments/assets/3b78a98b-d39b-464c-9eea-7932fc59ec83">
