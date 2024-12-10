@@ -19,12 +19,15 @@ Bem-vindo ao sistema de gestão de hotelaria! Este sistema foi desenvolvido para
 **🗓️ Uso do Kendo Grid** <br>
 O sistema integra o Kendo Grid para a gestão da agenda de reservas de forma visual e intuitiva.
 
-##  Telas no Figma
+## 🎨 Telas no Figma
 
 ![Screenshot 2024-12-09 at 22 17 13](https://github.com/user-attachments/assets/d0be5c47-a9d0-4307-87bc-129ad49b3db3)
 
+![Screenshot 2024-12-09 at 22 20 26](https://github.com/user-attachments/assets/eed0fcf1-1ca9-44e2-998f-51177461aef1)
 
-## 📸 Prints da Aplicação
+
+
+## 📸 Prints da Aplicação Desenvolvida
 
 Aqui estão alguns prints das funcionalidades principais:
 
